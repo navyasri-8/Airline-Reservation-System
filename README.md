@@ -6,6 +6,6 @@ Fly Reserve is a web application designed to simplify booking domestic flights o
 ->  Booking tickets for available flights.  
 ->  Making secure payments for their bookings.
 ->  Viewing details of their booked tickets.
-->  Canceling reservations if needed.
+->  Cancelling reservations if needed.
 This project offers a convenient way to manage domestic flight bookings entirely online.
 
