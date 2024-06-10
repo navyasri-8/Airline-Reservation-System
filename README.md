@@ -3,7 +3,7 @@
 Fly Reserve is a web application designed to simplify booking domestic flights online. Users can register for an account or log in to access features like:
 
 ->  Searching for flights based on travel dates and destinations.
-->  Booking tickets for available flights.
+->  Booking tickets for available flights.  
 ->  Making secure payments for their bookings.
 ->  Viewing details of their booked tickets.
 ->  Canceling reservations if needed.
